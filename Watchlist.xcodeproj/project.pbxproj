@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3EC6F2E32D6EE68D00FB4E6F /* Watchlist */ = {
+		3EC6F3052D6EE87300FB4E6F /* Watchlist */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Watchlist;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		3EC6F2D82D6EE68D00FB4E6F = {
 			isa = PBXGroup;
 			children = (
-				3EC6F2E32D6EE68D00FB4E6F /* Watchlist */,
+				3EC6F3052D6EE87300FB4E6F /* Watchlist */,
 				3EC6F2E22D6EE68D00FB4E6F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3EC6F2E32D6EE68D00FB4E6F /* Watchlist */,
+				3EC6F3052D6EE87300FB4E6F /* Watchlist */,
 			);
 			name = Watchlist;
 			packageProductDependencies = (
